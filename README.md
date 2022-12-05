@@ -1,4 +1,5 @@
 Ten de tai
+============================
 
 eProject-2022 Batch no: T1.2207.E1
 
@@ -11,10 +12,10 @@ Project title: ten de tai
 Student1397174  Ten
 Student1396931  Ten
 Student1396934  Ten
-Student1396507  Ten
+
 ============================
 
-eProject documentation at https://github.com/lnnhi1310/Kitchen-Appliances/tree/main/documentary
+eProject documentation at https://github.com/cuoilen007/test/tree/main/document
 
 ============================
 
